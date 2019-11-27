@@ -1,0 +1,24 @@
+#titulo {
+    background-color: lightblue;
+    color: black;
+    font-family: 'El Messiri', sans-serif;
+    padding: 2%;
+}
+
+#sec {
+    font-family: 'El Messiri', sans-serif;
+    background-color: antiquewhite;
+    color: darkcyan;
+    padding: 5%;
+}
+
+#res {
+    background-color: rgb(191, 191, 204);
+    color: darkcyan;
+    padding: 2%;
+}
+
+#but {
+    background-color: floralwhite;
+    color: darkgoldenrod;
+}
