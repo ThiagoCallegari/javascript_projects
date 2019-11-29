@@ -1,0 +1,32 @@
+#titulo {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    font-size: 200%;
+}
+
+#entrada {
+    background-color: white;
+    margin-top: 20px;
+}
+
+#botao {
+    background-color: white;
+    margin-top: 20px;
+}
+
+#boxer {
+    background-color: aqua;
+}
+
+#tarefa {
+    background-color: black;
+}
+
+#numero {
+    background-color: aqua;
+}
+
+#newTxt {
+    text-align: center;
+}
